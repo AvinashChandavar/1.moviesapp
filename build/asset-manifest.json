@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AvinashChandavar/moviesapp/static/css/main.07fc06fc.css",
+    "main.js": "/AvinashChandavar/moviesapp/static/js/main.5a087fdc.js",
+    "index.html": "/AvinashChandavar/moviesapp/index.html",
+    "static/media/search.svg": "/AvinashChandavar/moviesapp/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.07fc06fc.css.map": "/AvinashChandavar/moviesapp/static/css/main.07fc06fc.css.map",
+    "main.5a087fdc.js.map": "/AvinashChandavar/moviesapp/static/js/main.5a087fdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07fc06fc.css",
+    "static/js/main.5a087fdc.js"
+  ]
+}
